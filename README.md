@@ -6,6 +6,8 @@
 
 ### React
 [使用ReactTransitionGroup实现React动画效果](https://github.com/luckyhalley/blog/issues/3)
+[React组件性能优化](https://github.com/luckyhalley/blog/issues/4)
+
 
 ### 读书笔记
 
