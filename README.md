@@ -13,3 +13,5 @@
 ### 读书笔记
 
 [你不知道的JavaScript-中卷(1)](https://github.com/luckyhalley/blog/issues/5)
+
+[你不知道的JavaScript-中卷(2)](https://github.com/luckyhalley/blog/issues/6)
