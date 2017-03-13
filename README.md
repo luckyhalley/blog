@@ -9,6 +9,8 @@
 
 [React组件性能优化](https://github.com/luckyhalley/blog/issues/4)
 
+[网站前端性能优化指标](https://github.com/luckyhalley/blog/issues/8)
+
 
 ### 读书笔记
 
