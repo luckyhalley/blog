@@ -20,4 +20,4 @@
 
 ### 前端研究
 
-[前端常用算法比较测试] (https://github.com/luckyhalley/blog/issues/2)
+[前端常用算法比较测试](https://github.com/luckyhalley/blog/issues/2)
