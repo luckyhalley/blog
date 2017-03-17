@@ -11,6 +11,7 @@
 
 [网站前端性能优化指标](https://github.com/luckyhalley/blog/issues/8)
 
+[使用let实现块级作用域](https://github.com/luckyhalley/blog/issues/9)
 
 ### 读书笔记
 
